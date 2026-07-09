@@ -75,9 +75,9 @@ For televisions and other standard remotes, the decoded protocol is usually suff
 | Push Buttons | 2 |
 | TP4056 USB-C Li-ion Charger Module | 1 |
 | 120 mAh Li-ion Battery | 1 |
-| Slide Switch | 1 |
+| SPDT Slide Switch | 1 |
 | Tic Tac Box | 1 |
-| Hook-up Wire | As needed |
+| Wire | As needed |
 
 ## Current Features
 
