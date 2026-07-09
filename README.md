@@ -63,7 +63,21 @@ To capture IR commands from an existing remote:
 
 For televisions and other standard remotes, the decoded protocol is usually sufficient. For many ACs the complete raw Pulse Distance data should be used, as these remotes transmit the entire device state in each command.
 
+## Bill of Materials
 
+| Component | Quantity |
+|-----------|:--------:|
+| ATtiny85 Microcontroller | 1 |
+| IR LED (940 nm) | 1 |
+| 100 Ω Resistor (IR LED) | 1 |
+| Status LED | 1 |
+| 220 Ω Resistor (Status LED) | 1 |
+| Push Buttons | 2 |
+| TP4056 USB-C Li-ion Charger Module | 1 |
+| 120 mAh Li-ion Battery | 1 |
+| Slide Switch | 1 |
+| Tic Tac Box | 1 |
+| Hook-up Wire | As needed |
 
 ## Current Features
 
