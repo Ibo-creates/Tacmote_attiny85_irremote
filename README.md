@@ -1,5 +1,6 @@
-# Tacmote – ATtiny85 IR Remote
 
+# Tacmote – ATtiny85 IR Remote
+![Front View](Images/image1.jpeg)
 Tacmote is a compact universal preprogrammmed IR remote housed inside a tictac box.
 
 ## Overview
