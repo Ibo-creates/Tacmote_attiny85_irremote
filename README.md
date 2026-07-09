@@ -24,6 +24,15 @@ The project consists of:
 * spdt slide switch
 * Tic Tac box enclosure
 
+## Pinout
+
+| ATtiny85 Pin | Function |
+|--------------|----------|
+| PB0 (Pin 5) | IR LED |
+| PB2 (Pin 7) | Status LED |
+| PB3 (Pin 2) | TV Push Button |
+| PB4 (Pin 3) | AC Push Button |
+
 ## Programming
 
 Tacmote is programmed using the Arduino IDE and an Arduino Uno configured as an ISP programmer.
