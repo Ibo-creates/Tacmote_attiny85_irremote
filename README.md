@@ -23,6 +23,38 @@ The project consists of:
 * spdt slide switch
 * Tic Tac box enclosure
 
+## Programming
+
+Tacmote is programmed using the Arduino IDE and an Arduino Uno configured as an ISP programmer.
+
+**Required software:**
+
+* Arduino IDE
+* ATTinyCore by Spence Konde
+* IRremote library
+
+**Board settings:**
+
+* Board: ATtiny25/45/85
+* Chip: ATtiny85
+* Clock: 8 MHz (Internal)
+* Programmer: Arduino as ISP
+
+**Obtaining and customizing IR values**
+
+To capture IR commands from an existing remote:
+
+1. Connect an IR receiver (such as a VS1838B or TSOP38238) to an Arduino.
+2. Install the **IRremote** library.
+3. Upload the `ReceiveDump` example included with the library.
+4. Point the original remote at the receiver and press the button you wantto replicate.
+5. Copy the decoded protocol and raw data into the Tacmote firmware.
+6. Reprogram the ATtiny85 using **Upload Using Programmer**.
+
+For televisions and other standard remotes, the decoded protocol is usually sufficient. For many ACs the complete raw Pulse Distance data should be used, as these remotes transmit the entire device state in each command.
+
+
+
 ## Current Features
 
 * Compact and lightweight design
