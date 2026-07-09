@@ -3,6 +3,12 @@
 ![Front View](Images/iamge2.jpeg)
 Tacmote is a compact universal preprogrammmed IR remote housed inside a tictac box.
 
+## 🎥 Demo
+
+Watch Tacmote in action:
+
+[▶️ Watch the Demo](https://www.youtube.com/shorts/zra1wGCjjW4)
+
 ## Overview
 
 I wanted to use a Tic Tac box as the enclosure for a small electronics project because of its compact size and portability. So I decided to build Tacmota an IR remote controlling my TV and air conditioner from a single device, eliminating the need for me to carry multiple remotes.
