@@ -11,7 +11,7 @@ Watch Tacmote in action:
 
 ## Overview
 
-I wanted to use a Tic Tac box as the enclosure for a small electronics project because of its compact size and portability. So I decided to build Tacmota an IR remote controlling my TV and air conditioner from a single device, eliminating the need for me to carry multiple remotes.
+I wanted to use a Tic Tac box as the enclosure for a small electronics project because of its compact size and portability. So I decided to build Tacmote an IR remote controlling my TV and air conditioner from a single device, eliminating the need for me to carry multiple remotes.
 
 ## How It Works
 
