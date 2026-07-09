@@ -8,7 +8,7 @@ I wanted to use a Tic Tac box as the enclosure for a small electronics project b
 
 ## How It Works
 
-Tacmote uses an attiny85 ic microcontroller that runs a custom firmware where you can store the uniuqe 112-bit Pulse Distance IR protocol of the remote you want to replicate.When the user presses the designated pushbutton the IRremote transmits the corresponding IR code, replicating the orginal remote. 
+Tacmote uses an attiny85 ic microcontroller that runs a custom firmware where you can store the uniuqe 112 bit Pulse Distance IR protocol of the remote you want to replicate.When the user presses the designated pushbutton the IRremote transmits the corresponding IR code, replicating the orginal remote. 
 
 ## Hardware
 
@@ -18,8 +18,8 @@ The project consists of:
 * Infrared LED
 * Two push buttons
 * Indication LED
-* 120 mAh rechargeable LiPo battery
-* TP4056 USB-C charging module
+* 120 mAh rechargeable Lipo battery
+* TP4056 USB C charging module
 * spdt slide switch
 * Tic Tac box enclosure
 
@@ -37,7 +37,7 @@ Tacmote is programmed using the Arduino IDE and an Arduino Uno configured as an 
 
 * Board: ATtiny25/45/85
 * Chip: ATtiny85
-* Clock: 8 MHz (Internal)
+* Clock: 8 MHz Internal
 * Programmer: Arduino as ISP
 
 **Obtaining and customizing IR values**
