@@ -28,7 +28,7 @@ The project consists of:
 * 120 mAh rechargeable Lipo battery
 * TP4056 USB C charging module
 * spdt slide switch
-* Tic Tac box enclosure
+* Tic Tac box enclosure(link: https://www.amazon.com/Tic-Tac-Strawberry-total-GRAMS/dp/B0CLJMQFFH)
 
 ## Pinout
 
